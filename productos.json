@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone actualizado",
+    "description": "Un smartphone aún más poderoso",
+    "price": 1200,
+    "thumbnail": "https://example.com/smartphone-updated.png",
+    "code": "SM01",
+    "stock": 15
+  }
+]

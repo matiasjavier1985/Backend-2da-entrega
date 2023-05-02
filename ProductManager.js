@@ -76,7 +76,7 @@ class ProductManager {
   }
 }
 
-const ProductManager = require('./ProductManager');
+//const ProductManager = require('./ProductManager');
 
 // Crear una instancia de ProductManager con la ruta al archivo de productos
 const productManager = new ProductManager('./productos.json');
